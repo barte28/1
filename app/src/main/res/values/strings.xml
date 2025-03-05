@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">abc</string>
+    <string-array name="produkty">
+        <item>mleko</item>
+        <item>chleb</item>
+        <item>płatki owsiane</item>
+        <item>kakao</item>
+    </string-array>
 </resources>
